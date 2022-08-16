@@ -1,0 +1,27 @@
+--Создание таблиц и заполнение мусорными данными
+DROP TABLE Orders;
+DROP TABLE Customers;
+
+CREATE TABLE Customers(
+  Id BIGINT NOT NULL PRIMARY KEY
+ ,Name NVARCHAR(200));
+ 
+INSERT INTO Customers(Id, Name) VALUES
+  (1, 'Max')
+ ,(2, 'Pavel')
+ ,(3, 'Ivan')
+ ,(4, 'Leonid');
+ 
+CREATE TABLE Orders (
+  Id BIGINT NOT NULL PRIMARY KEY
+ ,CustomersId BIGINT NOT NULL
+ ,FOREIGN KEY (CustomersId) REFERENCES Customers (Id));
+ 
+INSERT INTO Orders (Id, CustomersId) VALUES
+  (1, 2)
+ ,(2, 4); 
+
+--Запрос с логикой отбора покупателей
+SELECT c.Name FROM Customers AS c 
+LEFT JOIN Orders AS o ON c.Id = o.CustomersId 
+WHERE o.CustomersId IS NULL

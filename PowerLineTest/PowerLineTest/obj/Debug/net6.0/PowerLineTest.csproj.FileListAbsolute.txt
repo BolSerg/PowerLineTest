@@ -1,0 +1,12 @@
+C:\Users\Dethklok213\source\repos\PowerLineTest\PowerLineTest\bin\Debug\net6.0\PowerLineTest.deps.json
+C:\Users\Dethklok213\source\repos\PowerLineTest\PowerLineTest\bin\Debug\net6.0\PowerLineTest.dll
+C:\Users\Dethklok213\source\repos\PowerLineTest\PowerLineTest\bin\Debug\net6.0\ref\PowerLineTest.dll
+C:\Users\Dethklok213\source\repos\PowerLineTest\PowerLineTest\bin\Debug\net6.0\PowerLineTest.pdb
+C:\Users\Dethklok213\source\repos\PowerLineTest\PowerLineTest\obj\Debug\net6.0\PowerLineTest.csproj.AssemblyReference.cache
+C:\Users\Dethklok213\source\repos\PowerLineTest\PowerLineTest\obj\Debug\net6.0\PowerLineTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dethklok213\source\repos\PowerLineTest\PowerLineTest\obj\Debug\net6.0\PowerLineTest.AssemblyInfoInputs.cache
+C:\Users\Dethklok213\source\repos\PowerLineTest\PowerLineTest\obj\Debug\net6.0\PowerLineTest.AssemblyInfo.cs
+C:\Users\Dethklok213\source\repos\PowerLineTest\PowerLineTest\obj\Debug\net6.0\PowerLineTest.csproj.CoreCompileInputs.cache
+C:\Users\Dethklok213\source\repos\PowerLineTest\PowerLineTest\obj\Debug\net6.0\PowerLineTest.dll
+C:\Users\Dethklok213\source\repos\PowerLineTest\PowerLineTest\obj\Debug\net6.0\ref\PowerLineTest.dll
+C:\Users\Dethklok213\source\repos\PowerLineTest\PowerLineTest\obj\Debug\net6.0\PowerLineTest.pdb
